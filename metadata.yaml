@@ -8,6 +8,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '44668'
     url: http://www.gutenberg.org/2009/agents/44668
+covers:
+- cover_type: archival
+  image_path: 72607-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -22,6 +25,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/32638
     - https://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72607#Uncle-Wiggily-s-silk-hat-b-A-tall-silk-hat-may-be-stylish-and-useful-and-how-Uncle-Wiggily-br_
 gutenberg_issued: '2024-01-03'
 gutenberg_type: Text
 identifiers:
